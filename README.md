@@ -13,31 +13,29 @@ When I’m not coding, you’ll find me strategizing over a game of chess or dra
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming & Backend  
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?logo=python) 
+![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql) 
+![Bash](https://img.shields.io/badge/-Bash-000?logo=gnubash)
 
 ### ☁️ DevOps & Cloud  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-![Nginx](https://img.shields.io/badge/Nginx-269539?logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000?logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github) 
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker) 
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?logo=jenkins)  
+![Terraform](https://img.shields.io/badge/-Terraform-000?logo=terraform) 
+![Ansible](https://img.shields.io/badge/-Ansible-000?logo=ansible) 
+![AWS](https://img.shields.io/badge/-AWS-000?logo=amazonaws)  
+![Linux](https://img.shields.io/badge/-Linux-000?logo=linux) 
+![Nginx](https://img.shields.io/badge/-Nginx-000?logo=nginx)
 
 ### 🌐 Frontend & Design  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3) 
+![Figma](https://img.shields.io/badge/-Figma-000?logo=figma)
 
 ### 📱 Mobile Development  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
-
----
+![Flutter](https://img.shields.io/badge/-Flutter-000?logo=flutter) 
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?logo=androidstudio)
 
 ## 🎲 Fun Facts & Interests  
 - ♟️ Avid chess player — love a good challenge  
