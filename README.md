@@ -1,70 +1,56 @@
-# 👋 Hi, I’m PhoenixBeast046 (Shiva Bobbali)!
+# 👋 Hi, I’m Shiva Bobbali (aka PhoenixBeast046)
 
-## 🚀 About Me
-Hey there! I’m Shiva, a passionate **Software Developer**, **DevOps Engineer**, and **Cloud Engineer** who loves building smooth web & mobile experiences, automating the boring stuff, and crafting robust cloud solutions.  
-When I’m not coding, you’ll find me strategizing over a game of chess or finding inspiration in the timeless wisdom of the **Bhagavad Gita**:
+## 🚀 About Me  
+Hey there! I’m Shiva — an enthusiastic **Developer** eager to work in **DevOps**, **Cloud**, **Web**, and **Mobile technologies**. I love automating workflows, building beautiful UIs, and deploying scalable cloud-native solutions.
 
-> “You have the right to work, but never to the fruit of work.” — Bhagavad Gita
+When I’m not coding, you’ll find me strategizing over a game of chess or drawing inspiration from the timeless wisdom of the **Bhagavad Gita**:
 
----
-
-## 🛠️ Tech Stack
-
-#### 🖥️ Frontend  
-HTML, CSS
-
-#### ⚙️ Backend / Programming  
-Python, MySQL
-
-#### ☁️ DevOps & Cloud  
-Git, GitHub, Docker, Jenkins, Terraform, Ansible  
-AWS, Linux, Nginx
-
-#### 📱 Mobile & Design  
-Flutter, Figma
+> “Perform your obligatory duty, because action is indeed better than inaction.”  
+> — *Bhagavad Gita, Chapter 3, Verse 8*
 
 ---
 
-## 📱 Featured Projects
+## 🛠️ Tech Stack & Tools
 
-#### Well'n'Ease App 🩺📊🤖  
-_A University of Dayton project_
+### 💻 Programming & Backend  
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
 
-A comprehensive health & wellness app to:
-- Log & track heart rate, sleep, mood
-- Visualize trends with beautiful charts
-- Get personalized health suggestions from a smart AI chatbot
+### ☁️ DevOps & Cloud  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+![Nginx](https://img.shields.io/badge/Nginx-269539?logo=nginx&logoColor=white)
 
-My role: UI/UX design in Figma, Flutter development, chatbot integration, data visualization
+### 🌐 Frontend & Design  
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-Tech: Dart · Flutter · Figma · AI · Android Studio
-
----
-
-#### GSM & GPS-Based Women's Safety System using Arduino 🛰️📡🛡️  
-_St. Peter’s Engineering College_
-
-A wearable device for women’s safety:
-- Real-time distress signaling via GSM & GPS
-- Instantly alerts trusted contacts/authorities with location
-- Built with Java & Arduino IDE
-
-My role: System design & development, teamwork
-
----
-
-## 🎲 Fun Facts & Interests
-
-- ♟️ Avid chess player — love a good challenge!
-- 📖 Inspired by the Bhagavad Gita in life and work
-- 😄 Always up for learning new tech & sharing knowledge
+### 📱 Mobile Development  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 
 ---
 
-## 🌍 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shiva-bobbali/)
+## 🎲 Fun Facts & Interests  
+- ♟️ Avid chess player — love a good challenge  
+- 📖 Inspired by the Bhagavad Gita in life and work  
+- 🚀 Always exploring new technologies & improving my craft
 
 ---
 
-_Thanks for stopping by — let’s connect, collaborate, and code something awesome!_ 🚀
+## 🌐 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-bobbali/)  
+📧 your.email@example.com
+
+---
+
+_Thanks for stopping by — let’s connect, collaborate, and build something awesome!_ 🚀
